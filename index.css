@@ -1,0 +1,55 @@
+.fas {
+    font-family: "Font Awesome 5 Free";
+}
+
+.text-primary {
+    color: #007bff;
+}
+
+.custom-padding {
+    padding-top: 10%;
+    padding-bottom: 25%;
+}
+
+.reduced-height-image {
+    max-width: 100%;
+    height: 870px;
+    
+}
+
+.display-3 {
+    font-size: calc(1.525rem + 3vw);
+    font-weight: 800;
+    line-height: 1.2;
+}
+.carousel-item
+{
+    background: rgba(0,0,0);
+    background: linear-gradient(360deg,rgba(0,0,0,1)) 15% ;
+   
+}
+.jumbotron
+{
+    width: 100%;
+    height: 600px;
+}
+
+.service-item {
+    background: lightgray;
+}
+
+.service-item .p-4 {
+    padding: 2rem;
+}
+
+.service-item {
+    margin-bottom: 2rem; 
+}
+.course-item {
+    margin-bottom: 2rem; 
+}
+.container-fluid
+{
+    padding-left: 10%;
+    
+}
